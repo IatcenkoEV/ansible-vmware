@@ -1,0 +1,14 @@
+YAML format is key=value.
+It doesn't support tabs from a whitespaces perspective.
+--- shows the beginning of a configaration file.
+
+Example:
+--- # beginning to yml script
+
+- colors:
+   -  red
+   -  orange
+   -  blue
+- cars:
+   - ford
+   - mazda
